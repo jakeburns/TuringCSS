@@ -31,5 +31,8 @@ body{
 .assignment-label {
   font-size: 40px;
 }
+.reading {
+  border: 1px solid black;
+}
 
 

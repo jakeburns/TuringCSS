@@ -3,5 +3,9 @@ p{
 }
 
 ul{
-  background-color: blue;
+  background-color: blue
+}
+
+*{
+  background-color: red;
 }

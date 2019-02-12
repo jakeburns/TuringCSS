@@ -6,6 +6,9 @@ body{
   background-color: #e242f4;
 
 }
+.day-box {
+  border: 3px solid black;
+}
 .person_info {
 
 }
@@ -21,3 +24,4 @@ body{
 .COMPLETED {
 
 }
+

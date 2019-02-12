@@ -24,4 +24,8 @@ body{
 .COMPLETED {
 
 }
+.person_image {
+  width: 600px;
+  height: 600px;
+}
 

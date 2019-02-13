@@ -10,6 +10,7 @@ body{
 }
 .day-box {
   border: 3px solid black;
+  margin-bottom: 100px
 }
 .person_info {
 

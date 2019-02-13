@@ -50,14 +50,14 @@ body{
 input[type = "submit"]{
   padding:20px 60px;
  outline: none;
- background-color: #27ae60;
+ background-color: #1d98e9;
  border: none;
  border-radius:5px;
  box-shadow: 0 9px #95a5a6;
 }
 
 input[type = submit]:hover{
-   background-color: #2ecc71;
+   background-color: #1d98e6;
 }
 
 input[type = submit]:active{

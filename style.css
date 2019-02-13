@@ -1,5 +1,5 @@
 body{
-  background-color: red;
+  /* background-color: red; */
 }
 
 .day{
@@ -14,10 +14,13 @@ body{
 }
 .nav {
   background-color: #1d98e9;
-  color: white;
   font-size: 30px;
   text-align: center;
   word-spacing: 15px;
+}
+
+.nav a{
+  color: white;
 }
 .PREP {
 

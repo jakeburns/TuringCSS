@@ -48,11 +48,12 @@ body{
 }
 
 input[type = "submit"]{
-  /* padding:20px 60px; */
+  padding:20px 60px;
  background-color: #1d98e9;
  border: none;
  outline: none;
  border-radius:6px;
+ /* set a shadow below button so button looks like its moving */
  box-shadow: 0 7px #95a5a6;
 }
 
@@ -63,6 +64,8 @@ input[type = submit]:hover{
 
 input[type = submit]:active{
   background-color: #1d98e9;
+  /* shrink box shadow */
   box-shadow: 0 5px #95a5a6;
+  /* move button down to go over shadow */
   transform: translateY(4px);
 }

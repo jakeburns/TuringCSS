@@ -14,7 +14,7 @@ body{
 }
 .nav {
   background-color: #1d98e9;
-  color: white;
+  font: white;
   font-size: 30px;
   text-align: center;
   word-spacing: 15px;

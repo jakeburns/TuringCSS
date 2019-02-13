@@ -17,6 +17,7 @@ body{
   font-size: 30px;
   text-align: center;
   word-spacing: 15px;
+  border-radius: 20px;
 }
 
 .nav a{

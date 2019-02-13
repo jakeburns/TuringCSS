@@ -57,7 +57,8 @@ input[type = "submit"]{
 }
 
 input[type = submit]:hover{
-   background-color: #1d98e6;
+  /* makes the background lighter when the mouse hovers over it */
+   background-color: #63b6ed;
 }
 
 input[type = submit]:active{

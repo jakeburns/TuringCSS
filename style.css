@@ -45,15 +45,15 @@ body{
 }
 .reading {
   border: 1px solid black;
-  background: #fcfcfc
+  background-color: #fcfcfc
 }
 .grading-box {
   border: 1px solid black;
-  background: #fcfcfc
+  background-color: #fcfcfc
 }
 .prep-box {
   border: 1px solid black;
-  background: #fcfcfc
+  background-color: #fcfcfc
 }
 
 input[type = "submit"]{

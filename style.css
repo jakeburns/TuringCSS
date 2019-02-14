@@ -18,6 +18,7 @@ body{
 }
 .nav {
   background-color: #1d98e9;
+  background-image: linear-gradient(to bottom right, blue, white);
   font-size: 30px;
   text-align: center;
   word-spacing: 60px;

@@ -30,7 +30,7 @@ body{
   text-decoration: none;
 }
 .nav a:hover {
-  color: #ebf70c /* text turns yellow when hover */
+  color: yellow /* text turns yellow when hover */
 }
 .PREP {
 

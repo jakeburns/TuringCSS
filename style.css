@@ -20,7 +20,7 @@ body{
   background-color: #1d98e9;
   font-size: 30px;
   text-align: center;
-  word-spacing: 15px;
+  word-spacing: 60px;
   border-radius: 20px;
 }
 
@@ -32,7 +32,6 @@ body{
 
 }
 .CURRENT {
-  color: green;
 }
 .COMPLETED {
 

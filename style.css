@@ -37,11 +37,14 @@ body{
 
 }
 .person_image {
-  width: 300px;
-  height: 300px;
+  width: 150px;
+  height: 150px;
 }
 .assignment-label {
   font-size: 40px;
+  margin-left: 10px; /*this pushes the assignment text to the left */
+  /* but we need to find a way to push the text below it to the left */
+  /* currently the text has no class or selector */
 }
 .reading {
   border: 1px solid black;

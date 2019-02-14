@@ -73,6 +73,12 @@ body{
   font-size: 20px;
   /* There doesn't seem to be a clean way to center this under the user image. */
 }
+svg.style {
+  border: 3px solid black
+  border-radius: 15px
+  margin-top: 10px
+  background-color: lightgray
+}
 input[type = "submit"]{
   padding:20px 60px;
  background-color: #1d98e9;

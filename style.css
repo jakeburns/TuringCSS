@@ -10,7 +10,7 @@ body{
 }
 .day-box {
   border: 3px solid black;
-  margin-bottom: 50px
+  margin-bottom: 50px /*creates space between day-boxes*/
 }
 .person_info {
 
@@ -47,6 +47,9 @@ body{
   border: 1px solid black;
 }
 .grading-box {
+  border: 1px solid black;
+}
+.prep-box {
   border: 1px solid black;
 }
 

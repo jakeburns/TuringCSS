@@ -5,8 +5,8 @@ body{
 }
 
 .day{
-  background-color: #e242f4;
-
+  background-color: #425af4;
+  border: 1px solid black;
 }
 .day-box {
   border: 3px solid black;

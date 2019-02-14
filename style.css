@@ -10,7 +10,8 @@ body{
 }
 .day-box {
   border: 3px solid black;
-  margin-bottom: 50px /*creates space between day-boxes*/
+  border-radius: 10px;
+  margin-bottom: 50px; /*creates space between day-boxes*/
 }
 .person_info {
 
@@ -45,15 +46,15 @@ body{
 }
 .reading {
   border: 1px solid black;
-  background-color: #fcfcfc
+  background-color: #fcfcfc;
 }
 .grading-box {
   border: 1px solid black;
-  background-color: #fcfcfc
+  background-color: #fcfcfc;
 }
 .prep-box {
   border: 1px solid black;
-  background-color: #fcfcfc
+  background-color: #fcfcfc;
 }
 
 input[type = "submit"]{

@@ -29,6 +29,9 @@ body{
   color: white;
   text-decoration: none;
 }
+.nav a:hover {
+  color: #e9e91e /* text turns yellow when hover */
+}
 .PREP {
 
 }
@@ -67,6 +70,7 @@ body{
 }
 .username {
   font-size: 20px;
+  /* There doesn't seem to be a clean way to center this under the user image. */
 }
 input[type = "submit"]{
   padding:20px 60px;

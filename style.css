@@ -77,7 +77,8 @@ body{
 
 .grade{
   color: red;
-  background-color: green;
+  text-align: center;
+  /* background-color: green; */
 }
 
 /* svg.style {

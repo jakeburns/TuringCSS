@@ -75,6 +75,11 @@ body{
   /* There doesn't seem to be a clean way to center this under the user image. */
 }
 
+.grade{
+  color: red;
+  background-color: green;
+}
+
 /* svg.style {
 
 svg.style {

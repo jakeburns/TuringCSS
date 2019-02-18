@@ -78,6 +78,7 @@ body{
 .grade{
   color: red;
   text-align: center;
+  font-size: 50px;
   /* background-color: green; */
 }
 

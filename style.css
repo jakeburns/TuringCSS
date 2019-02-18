@@ -77,11 +77,12 @@ body{
 
 .grade{
   color: red;
-  text-align: center;
   font-size: 50px;
   /* background-color: green; */
 }
-
+.grade a{
+  text-decoration: none;
+}
 /* svg.style {
 
 svg.style {

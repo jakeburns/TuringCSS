@@ -1,6 +1,6 @@
 body{
   background-color: #63b6edd4; /*sky blue background*/
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Luckiest Guy', inherit; 
   /*This font is more clubpenguin-ey*/
 }
 

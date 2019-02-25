@@ -107,7 +107,7 @@ body{
   margin-left: 10px;
 }
 
-svg image {
+.seat_pic {
   border: 2px solid black;
   border-radius: 15px;
 }

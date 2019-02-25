@@ -85,7 +85,8 @@ body{
 }
 .lab-box .assignment-label{
   content:url(images/penguinlabREAL.png);
-
+  height: 445px;
+  width: 256px;
 }
 .lab-box {
   border: 1px solid black;

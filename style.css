@@ -107,6 +107,10 @@ body{
   margin-left: 10px;
 }
 
+.absences .hidden{
+  content:url(images/clubpenguingradeREAL.png);
+}
+
 /* .seat_pic {
   border: 2px solid black;
   border-radius: 15px;

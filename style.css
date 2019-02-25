@@ -32,6 +32,7 @@ body{
 }
 .nav a:hover {
   color: yellow /* text turns yellow when hover */
+  background-color: #425af4;
 }
 .PREP {
 

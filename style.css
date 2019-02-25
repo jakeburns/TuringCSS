@@ -116,3 +116,7 @@ input[type = submit]:active{
   /* move button down to go over shadow */
   transform: translateY(4px);
 }
+
+label{
+  display: block;
+}

@@ -80,7 +80,7 @@ body{
   font-size: 50px;
   /* background-color: green; */
 }
-.assignment-label, .grade {
+.assignment-label, .assignment-title, .grade {
   margin-left: 10px;
 }
 

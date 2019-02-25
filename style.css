@@ -73,6 +73,11 @@ body{
 .prep-box .assignment-label{
   content:url(images/realPREPPY.png);
 }
+
+.grading-box .assignment-label{
+  content:url(images/clubpenguingradeREAL.png);
+
+}
 .lab-box {
   border: 1px solid black;
   background-color: #fcfcfc;

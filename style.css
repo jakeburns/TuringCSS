@@ -107,10 +107,10 @@ body{
   margin-left: 10px;
 }
 
-.seat_pic {
+/* .seat_pic {
   border: 2px solid black;
   border-radius: 15px;
-}
+} */
 
 input[type = "submit"]{
   padding:20px 60px;

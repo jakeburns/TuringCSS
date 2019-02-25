@@ -107,18 +107,12 @@ body{
   margin-left: 10px;
 }
 
-/* svg.style {
-
-svg.style {
-
-  border: 3px solid black
-  border-radius: 15px
-  margin-top: 10px
-  background-color: lightgray
+svg image {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
 }
-}
-
-*/
 
 input[type = "submit"]{
   padding:20px 60px;
